@@ -11,7 +11,7 @@ To run the chatbot, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/e-commerce-chatbot.git
+   git clone https://github.com/farrahossama/e-commerce-chatbot.git
    cd e-commerce-chatbot
 
 2. Install the required dependencies:
