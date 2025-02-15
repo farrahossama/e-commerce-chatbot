@@ -1,0 +1,140 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Wireless Earbuds",
+      "price": 15.99,
+      "category": "Electronics",
+      "description": "High-quality wireless earbuds with noise cancellation.",
+      "delivery_charge": 5.0,
+      "availability": true
+    },
+    {
+      "id": 2,
+      "name": "Bluetooth Speaker",
+      "price": 25.99,
+      "category": "Electronics",
+      "description": "Portable Bluetooth speaker with 10-hour battery life.",
+      "delivery_charge": 7.0,
+      "availability": true
+    },
+    {
+      "id": 3,
+      "name": "Coffee Maker",
+      "price": 45.99,
+      "category": "Home Appliances",
+      "description": "Automatic coffee maker with programmable settings.",
+      "delivery_charge": 10.0,
+      "availability": false
+    },
+    {
+      "id": 4,
+      "name": "Running Shoes",
+      "price": 19.99,
+      "category": "Sports",
+      "description": "Lightweight running shoes with cushioned soles.",
+      "delivery_charge": 5.0,
+      "availability": true
+    },
+    {
+      "id": 5,
+      "name": "Smart Watch",
+      "price": 99.99,
+      "category": "Electronics",
+      "description": "Smart watch with heart rate monitoring.",
+      "delivery_charge": 8.0,
+      "availability": true
+    },
+    {
+      "id": 6,
+      "name": "Yoga Mat",
+      "price": 12.99,
+      "category": "Sports",
+      "description": "Eco-friendly yoga mat with non-slip surface.",
+      "delivery_charge": 4.0,
+      "availability": true
+    },
+    {
+      "id": 7,
+      "name": "Electric Kettle",
+      "price": 29.99,
+      "category": "Home Appliances",
+      "description": "Stainless steel electric kettle with auto-shutoff.",
+      "delivery_charge": 6.0,
+      "availability": true
+    },
+    {
+      "id": 8,
+      "name": "Laptop Backpack",
+      "price": 34.99,
+      "category": "Accessories",
+      "description": "Water-resistant laptop backpack with USB charging port.",
+      "delivery_charge": 7.0,
+      "availability": true
+    },
+    {
+      "id": 9,
+      "name": "Wireless Mouse",
+      "price": 9.99,
+      "category": "Electronics",
+      "description": "Ergonomic wireless mouse with silent click.",
+      "delivery_charge": 3.0,
+      "availability": true
+    },
+    {
+      "id": 10,
+      "name": "Air Fryer",
+      "price": 89.99,
+      "category": "Home Appliances",
+      "description": "Digital air fryer with touchscreen controls.",
+      "delivery_charge": 12.0,
+      "availability": false
+    },
+    {
+      "id": 11,
+      "name": "LED Desk Lamp",
+      "price": 22.99,
+      "category": "Home Appliances",
+      "description": "Adjustable LED desk lamp with USB port.",
+      "delivery_charge": 5.0,
+      "availability": true
+    },
+    {
+      "id": 12,
+      "name": "Gaming Keyboard",
+      "price": 49.99,
+      "category": "Electronics",
+      "description": "Mechanical gaming keyboard with RGB lighting.",
+      "delivery_charge": 8.0,
+      "availability": true
+    },
+    {
+      "id": 13,
+      "name": "Water Bottle",
+      "price": 8.99,
+      "category": "Accessories",
+      "description": "Insulated stainless steel water bottle.",
+      "delivery_charge": 3.0,
+      "availability": true
+    },
+    {
+      "id": 14,
+      "name": "Blender",
+      "price": 39.99,
+      "category": "Home Appliances",
+      "description": "High-speed blender with 2-liter capacity.",
+      "delivery_charge": 9.0,
+      "availability": true
+    },
+    {
+      "id": 15,
+      "name": "Fitness Tracker",
+      "price": 59.99,
+      "category": "Electronics",
+      "description": "Fitness tracker with heart rate and sleep monitoring.",
+      "delivery_charge": 6.0,
+      "availability": true
+    }
+  ]
+}
+
