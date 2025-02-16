@@ -6,8 +6,8 @@ This project is a conversational AI system for an e-commerce platform. It allows
 - "What is the delivery charge for Wireless Earbuds?"
 - "Show me all available electronics."
 
-## Installation
-To run the chatbot, follow these steps:
+## Installation (Method 1)
+To run the chatbot on your machine, follow these steps:
 
 1. Clone the repository:
    ```bash
@@ -19,14 +19,19 @@ To run the chatbot, follow these steps:
    ```bash
    pip install -r requirements.txt
 
-3.Run the Jupyter Notebook:
-
-   ```bash
-    jupyter notebook
+3. Run the Jupyter Notebook
 
 4. Open the e-commerce-bot.ipynb notebook and run all cells.
 
 
+## Installation (Method 2)
+To run the chatbot google colab, follow these steps:
+
+1. Download e-commerce-bot.ipynb and upload it to google colab
+
+2. Download product_catalog.json and upload it to google colab files tab (will be available only during runtime, if session ends you need to re-upload it)
+
+3. Run the e-commerce-bot.ipynb 
 ----------------------------------
 
 Usage
